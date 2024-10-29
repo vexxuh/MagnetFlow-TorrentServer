@@ -16,4 +16,4 @@ https://github.com/qdm12/gluetun-wiki/tree/main/setup
 
 
 ## TEMP SETUP
-While the bulk of development is underway. We will currently be using the rqbit server exactly. However, once we have a working prototype that is doing its main function we will split off from rqbit and fork rqbit to build a different communication solution solution. As one of the only means of communication is over HTTP. We prefer a gRPC appraoch. HTTP will be temperary while we continue to develop the application system!
+While the bulk of development is underway. We will currently be using the rqbit server exactly. However, once we have a working prototype that is doing its main function we will split off from rqbit and fork rqbit to build a different communication solution. As one of the only means of communication is over HTTP. We prefer a gRPC appraoch. HTTP will be temperary while we continue to develop the application system!
